@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "singhteekam",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
